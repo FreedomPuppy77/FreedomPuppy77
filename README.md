@@ -58,7 +58,5 @@ This project is open source and follows the MIT License. You are free to use, mo
 
 Improvements and extensions to the project are welcome. If you have any suggestions or find any issues, please submit them through GitHub's Issue or Pull Request features.
 
----
 
-**Note**: This document is an example, and the actual filenames and code structure may differ from the project. Please adjust according to the actual situation.
 
