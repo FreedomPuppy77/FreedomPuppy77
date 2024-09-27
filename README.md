@@ -56,7 +56,7 @@ This project is open source and follows the MIT License. You are free to use, mo
 
 ## Contributions
 
-Improvements and extensions to the project are welcome. If you have any suggestions or find any issues, 
+ 
 
 
 
